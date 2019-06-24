@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+ @font-face {
+ 	font-family:"Gotham Bold";
+ 	src:
+ 	url("../fonts/Gotham Bold.eot") format("eot"),
+ 	url("../fonts/Gotham Bold.woff") format("woff"),
+ 	url("../fonts/Gotham Bold.ttf") format("truetype");	
+ 	font-weight:normal;
+ 	font-style:normal;
+ }
+
+ @font-face {
+ 	font-family:"Gotham Book";
+ 	src:
+ 	url("../fonts/Gotham Book.eot") format("eot"),
+ 	url("../fonts/Gotham Book.woff") format("woff"),
+ 	url("../fonts/Gotham Book.ttf") format("truetype");
+ 	font-weight:normal;
+ 	font-style:normal;
+ }
+
+ @font-face {
+ 	font-family:"Gotham Medium";
+ 	src:
+ 	url("../fonts/Gotham Medium.otf") format("otf"),
+ 	url("../fonts/Gotham Medium.ttf") format("truetype"),
+ 	url("../fonts/Gotham Medium.woff") format("woff"),
+ 	url("../fonts/Gotham Medium.woff2") format("woff2");
+ 	font-weight:normal;
+ 	font-style:normal;
+ }
